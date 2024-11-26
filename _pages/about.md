@@ -11,7 +11,7 @@ My name is Dayong Huang and I am a finance professor at the Bryan School of Busi
 
 Recent Works
 ======
-*Working Papers
+**Working Papers
 "Environmental Sustainability and Stock Returns", with William Brown, Xiaoli Gao, Yufeng Han, and Fang Wang, 2023.
 "Option-traders, Reversals and Stock Returns," with Yufeng Han and Xiao Xiao, 2023.
  *Published Papers
