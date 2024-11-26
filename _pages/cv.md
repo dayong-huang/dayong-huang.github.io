@@ -7,10 +7,7 @@ redirect_from:
   - /resume
 ---
 
-
-[CV](https://dayong-huang.github.io/files/Huang-CV-2024.pdf)
-
-# Dayong Huang: Curriculum Vitae
+# Dayong Huang: [Curriculum Vitae](https://dayong-huang.github.io/files/Huang-CV-2024.pdf)
 
 ## Contact Information
 
