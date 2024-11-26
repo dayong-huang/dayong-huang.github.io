@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dayong Huang"
+title                    : "Prof. Dayong Huang"
 title_separator          : "-"
 name                     : &name "Dayong Huang"
 description              : &description "My name is Dayong Huang and I am a Professor of Finance at the Bryan School of Business and Economics at the University of North Carolina at Greensboro. My research interests include asset pricing, institutional trading, ESG, machine learning, and behavioral finance."
