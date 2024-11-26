@@ -8,10 +8,10 @@ main:
   - title: "Publications"
     url: /publications/
   
-
+    {% comment %}
   - title: "Teaching"
     url: /teaching/    
-    
+    {% endcomment %}
     
   - title: "CV"
     url: /cv/
