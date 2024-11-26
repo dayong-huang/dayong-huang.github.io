@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV"
+title: "[Curriculum Vitae](https://dayong-huang.github.io/files/Huang-CV-2024.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-# Dayong Huang: [Curriculum Vitae](https://dayong-huang.github.io/files/Huang-CV-2024.pdf)
+# Dayong Huang 
 
 ## Contact Information
 
