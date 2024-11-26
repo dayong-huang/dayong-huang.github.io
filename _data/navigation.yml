@@ -6,12 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
-  
-    {% comment %}
-  - title: "Teaching"
-    url: /teaching/    
-    {% endcomment %}
+    url: /publications/   
     
   - title: "CV"
     url: /cv/
