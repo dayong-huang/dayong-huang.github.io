@@ -7,9 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-[CV](files/Huang-CV-2024.pdf)
+[CV](https://dayong-huang.github.io/files/Huang-CV-2024.pdf)
 
 # Dayong Huang: Curriculum Vitae
 
