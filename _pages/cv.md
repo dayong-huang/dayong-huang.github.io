@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV Download]()
+[CV](files/Huang-CV-2024.pdf)
