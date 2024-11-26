@@ -11,12 +11,12 @@ My name is Dayong Huang and I am a finance professor at the Bryan School of Busi
 
 Recent Works
 ======
-**Working Papers
-"Environmental Sustainability and Stock Returns", with William Brown, Xiaoli Gao, Yufeng Han, and Fang Wang, 2023.
-"Option-traders, Reversals and Stock Returns," with Yufeng Han and Xiao Xiao, 2023.
- *Published Papers
-"Managerial Extrapolation: Who and When", with Lijun Lei, Mengmeng Wang, and Yuhang Xing, Forthcoming at Management Science. 2024.
-"Short Selling Efficiency," with Yong Chen and Zhi Da, 2022. Journal of Financial Economics 145, 387-408. Winner of 2020 Global Association of Risk Professionals Research Award. 
-"Expected Return, Volume and Mispricing," with Yufeng Han, Dashan Huang, and Guofu Zhou, 2022. Journal of Financial Economics 143, 1295-1315. 
-"The Effect of Oil Shocks on Industry Returns," with Jay Li and Kai Wu, 2021. Journal of Commodity Markets 24, 100172
+## Working Papers
+  1. "Environmental Sustainability and Stock Returns", with William Brown, Xiaoli Gao, Yufeng Han, and Fang Wang, 2023.
+  2. "Option-traders, Reversals and Stock Returns," with Yufeng Han and Xiao Xiao, 2023.
+## Published Papers
+  1. "Managerial Extrapolation: Who and When", with Lijun Lei, Mengmeng Wang, and Yuhang Xing, Forthcoming at Management Science. 2024.
+  2. "Short Selling Efficiency," with Yong Chen and Zhi Da, 2022. Journal of Financial Economics 145, 387-408. Winner of 2020 Global Association of Risk Professionals Research Award.
+  3. "Expected Return, Volume and Mispricing," with Yufeng Han, Dashan Huang, and Guofu Zhou, 2022. Journal of Financial Economics 143, 1295-1315.
+  4. "The Effect of Oil Shocks on Industry Returns," with Jay Li and Kai Wu, 2021. Journal of Commodity Markets 24, 100172
 [More](https://dayong-huang.github.io/publications/)
