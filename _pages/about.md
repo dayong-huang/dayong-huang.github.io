@@ -20,4 +20,4 @@ Recent Works
   2. "Short Selling Efficiency," with Yong Chen and Zhi Da, 2022. Journal of Financial Economics 145, 387-408. Winner of 2020 Global Association of Risk Professionals Research Award.
   3. "Expected Return, Volume and Mispricing," with Yufeng Han, Dashan Huang, and Guofu Zhou, 2022. Journal of Financial Economics 143, 1295-1315.
   4. "The Effect of Oil Shocks on Industry Returns," with Jay Li and Kai Wu, 2021. Journal of Commodity Markets 24, 100172
-[More](https://dayong-huang.github.io/publications/)
+<br />[More](https://dayong-huang.github.io/publications/)
