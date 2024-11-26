@@ -20,4 +20,6 @@ Recent Works
   2. "Short Selling Efficiency," with Yong Chen and Zhi Da, 2022. Journal of Financial Economics 145, 387-408. Winner of 2020 Global Association of Risk Professionals Research Award.
   3. "Expected Return, Volume and Mispricing," with Yufeng Han, Dashan Huang, and Guofu Zhou, 2022. Journal of Financial Economics 143, 1295-1315.
   4. "The Effect of Oil Shocks on Industry Returns," with Jay Li and Kai Wu, 2021. Journal of Commodity Markets 24, 100172
+  5. "Anomalies Enhanced: A Portfolio Rebalance Approach," with Yufeng Han and Guofu Zhou, 2021, Financial Management 50, 371-424.
+  6. "Corporate Disclosure Quality and Institutional Investors’ Holdings During Market Downturns", with Hua Chen and Yan Luo, 2020. Journal of Corporate Finance 60, 1010523. 
 <br />[More](https://dayong-huang.github.io/publications/)
