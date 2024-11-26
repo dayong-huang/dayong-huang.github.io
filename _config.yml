@@ -25,8 +25,8 @@ author:
   name             : "Dayong Huang"
   pronouns         : # example: "she/her"  
   bio              : "My name is Dayong Huang and I am a Professor of Finance at the Bryan School of Business and Economics at the University of North Carolina at Greensboro. My research interests include asset pricing, institutional trading, ESG, machine learning, and behavioral finance."
-  location         : "Greensboro, North Carolina, USA"
-  employer         : "The University of North Carolina at Greensboro"
+  location         : "Greensboro, North Carolina"
+  employer         : "UNC Greensboro"
   uri              : # URL
   email            : "d_huang@uncg.edu" 
 
@@ -37,7 +37,7 @@ author:
   orcid            : #
   semantic         : # URL
   pubmed           : #
-  researchgate     : https://www.researchgate.net/profile/Dayong-Huang-3
+  researchgate     : "https://www.researchgate.net/profile/Dayong-Huang-3"
   scopus           : # URL
 
   # Repositories and software development
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/dayong-huang-306081150
+  linkedin         : "https://www.linkedin.com/in/dayong-huang-306081150"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
