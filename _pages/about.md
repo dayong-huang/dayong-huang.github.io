@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Dayong Huang and I am a finance professor at the Bryan School of Business and Economics at the University of North Carolina at Greensboro. My research interests include asset pricing, institutional trading, ESG, machine learning, and behavioral finance. My email is d_huang@uncg.edu and my CV is [here](https://dayong-huang.github.io/cv/).
+My name is Dayong Huang and I am a Professor of Finance at the Bryan School of Business and Economics at the University of North Carolina at Greensboro. My research interests lie in asset pricing, institutional trading, ESG, machine learning, and behavioral finance. My email is d_huang@uncg.edu and my CV is [here](https://dayong-huang.github.io/files/Huang-CV-2024.pdf).
 
 Recent Works
 ======
