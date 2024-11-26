@@ -1,17 +1,12 @@
 ---
 layout: archive
-title: "[Curriculum Vitae](https://dayong-huang.github.io/files/Huang-CV-2024.pdf)"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-# Dayong Huang 
-
-## Contact Information
-
-**Dayong Huang**  
+## Dayong Huang 
 Department of Accounting and Finance  
 Bryan School of Business and Economics  
 University of North Carolina Greensboro  
